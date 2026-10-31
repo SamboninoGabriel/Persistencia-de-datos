@@ -1,0 +1,9 @@
+com\banco\entities\Cliente.class
+com\mycompany\proyectopersistencia\ProyectoPersistencia.class
+com\banco\entities\Prestamo.class
+com\banco\entities\CuentaBancaria.class
+com\banco\entities\Plan.class
+com\banco\entities\Tarjeta.class
+com\banco\entities\TarjetaDebito.class
+com\banco\entities\TarjetaCredito.class
+com\banco\entities\TipoTarjetaDebito.class
